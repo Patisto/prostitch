@@ -1227,8 +1227,34 @@ h1, h2, h3, h4, h5 {
   .row.g-5 { gap: 30px; }
   .contact-info-wrap { padding-right: 0; }
   .single-instagram img { height: 220px; }
+  .testimonial-padding { padding: 70px 0 80px; }
+  .single-testimonial {
+    padding: 36px 18px 56px;
+  }
+  .testimonial-caption { margin-bottom: 22px; }
+  .testimonial-caption p { font-size: 15px; line-height: 1.7; }
+  .quotes-sign {
+    top: -28px;
+    left: -8px;
+    width: 52px;
+    height: 40px;
+  }
+  .testimonial-founder {
+    margin-top: 20px;
+    align-items: flex-start;
+    flex-direction: column;
+    gap: 10px;
+  }
+  .founder-avatar {
+    width: 46px;
+    height: 46px;
+    font-size: 14px;
+  }
+  .founder-text span { font-size: 16px; }
+  .founder-text p { font-size: 12px; }
   .testimonial-area .swiper-button-prev,
   .testimonial-area .swiper-button-next { display: none; }
+  .testimonial-swiper .swiper-pagination { bottom: 0; }
   .hero-btn, .hero-btn-outline { font-size: 11px; padding: 12px 22px; }
 }
 
@@ -1238,4 +1264,12 @@ h1, h2, h3, h4, h5 {
   .col-6 { width: 50%; }
   .cta-banner { padding: 50px 0; }
   .process-step { padding: 20px 10px; }
+  .single-testimonial { padding: 32px 16px 52px; }
+  .testimonial-caption p { font-size: 14px; }
+  .quotes-sign {
+    top: -24px;
+    left: 0;
+    width: 46px;
+    height: 34px;
+  }
 }
