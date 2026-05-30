@@ -1210,6 +1210,8 @@ h1, h2, h3, h4, h5 {
   .single-offers { padding-left: 0; }
   .single-offers .offers-cap span { display: none; }
   .contact-form-wrap { padding: 32px 24px; }
+  .testimonial-area .col-lg-9 { width: 100%; }
+  .testimonial-swiper { width: 100%; min-height: 280px; }
   .single-testimonial { padding: 50px 20px 40px 40px; }
   .quotes-sign { left: -30px; }
 }
@@ -1239,6 +1241,7 @@ h1, h2, h3, h4, h5 {
     width: 52px;
     height: 40px;
   }
+  .testimonial-swiper { min-height: 300px; }
   .testimonial-founder {
     margin-top: 20px;
     align-items: flex-start;
@@ -1262,6 +1265,8 @@ h1, h2, h3, h4, h5 {
   .header-bottom { padding: 14px 16px; }
   .hero-caption h1 { font-size: 30px; }
   .col-6 { width: 50%; }
+  .testimonial-area .col-lg-9 { width: 100%; }
+  .testimonial-swiper { min-height: 320px; }
   .cta-banner { padding: 50px 0; }
   .process-step { padding: 20px 10px; }
   .single-testimonial { padding: 32px 16px 52px; }
