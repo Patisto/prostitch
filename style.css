@@ -1219,6 +1219,7 @@ h1, h2, h3, h4, h5 {
 @media (max-width: 767px) {
   .section-padding40 { padding: 60px 0; }
   .slider-height { min-height: 520px; }
+  .hero-tag { margin-top: 12px; }
   .hero-caption p { font-size: 14px; }
   .stats-bar .row { gap: 0; }
   .stat-item { padding: 12px 8px; }
